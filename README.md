@@ -4,3 +4,8 @@ Automated wound detection using YOLO v8 enhances accuracy and speed in identifyi
 
 
   <img width="461" alt="Screenshot 2024-05-21 at 11 01 47 PM" src="https://github.com/akashsharma-2002/Wound_detox/assets/73756172/819838ba-6e56-4d16-8e2f-e8488d761a56">
+
+
+Model architecture
+
+<img width="624" alt="Screenshot 2024-05-21 at 11 06 30 PM" src="https://github.com/akashsharma-2002/Wound_detox/assets/73756172/ad6c98a0-923c-4801-8a0e-4aaa060b28ca">
