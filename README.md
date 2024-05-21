@@ -45,4 +45,14 @@ This project is licensed under the Apache License 2.0. See the Apache License 2.
 
 # Contributors
 
+<img width="370" alt="Screenshot 2024-05-21 at 11 27 28 PM" src="https://github.com/akashsharma-2002/Wound_detox/assets/73756172/8cb8ced8-bcd1-47e8-ae70-cbdf86da8cef">
+
+
+This project is submitted as the major project by
+
+AKASH SHARMA     ENG20AM0005
+GOVIND PATIL K   ENG20AM0025
+SAHANA B         ENG20AM0048
+SIDDHARTH MEHER  ENG21AM0035
+Students of Bachelor of Technology in Computer Science and Engineering at the School of Engineering, Dayananda Sagar University, Bangalore, in partial fulfillment for the award of a degree in Bachelor of Technology in Computer Science and Engineering(AI & ML), during the year 2023-2024.
 
