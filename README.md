@@ -50,13 +50,13 @@ This project is licensed under the Apache License 2.0. See the Apache License 2.
 
 This project is submitted as the major project by
 
-AKASH SHARMA     ENG20AM0005
+1: AKASH SHARMA      ENG20AM0005
 
-GOVIND PATIL K   ENG20AM0025
+2: GOVIND PATIL K    ENG20AM0025
 
-SAHANA B         ENG20AM0048
+3: SAHANA B          ENG20AM0048
 
-SIDDHARTH MEHER  ENG21AM0035
+4: SIDDHARTH MEHER   ENG21AM0035
 
 Students of Bachelor of Technology in Computer Science and Engineering at the School of Engineering, Dayananda Sagar University, Bangalore, in partial fulfillment for the award of a degree in Bachelor of Technology in Computer Science and Engineering(AI & ML), during the year 2023-2024.
 
