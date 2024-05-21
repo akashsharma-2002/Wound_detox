@@ -24,7 +24,11 @@ Create a new directory and put all the files inside the same directory.
 ## 2: Create and activate a virtual environment:
 
 ```python3 -m venv venv```
+
+
 ```source venv/bin/activate```  # for Linux/macOS
+
+
 ```.\venv\Scripts\activate ``` # for Windows
 
 ## 3: Install the required Python libraries:
