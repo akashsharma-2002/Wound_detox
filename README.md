@@ -13,7 +13,7 @@ Automated wound detection using YOLO v8 enhances accuracy and speed in identifyi
 # Requirements
 The required Python libraries are listed in the req.txt file. You can install them using the following command:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 # Setup and Execution
 
