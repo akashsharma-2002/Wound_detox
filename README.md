@@ -39,3 +39,6 @@ Create a new directory and put all the files inside the same directory.
 
 run the file woound_vv.ipynb and run every shell and make sure to change the hardware requirement to TPU from CPU.
 
+## 5: License
+
+This project is licensed under the Apache License 2.0. See the LICENSE file for details.
